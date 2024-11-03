@@ -1,5 +1,5 @@
-#Rust Learning Project
+# Rust Learning Project
 
-##Basic Notebook
+## Basic Notebook
 
 You can add, edit and delete your text. 
